@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "MongoDB_Vault_Demonstration.Controllers.CarController",
+    "Method": "GetAllCarsAsync",
+    "RelativePath": "api/Car/allcars",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDB_Vault_Demonstration.Controllers.CarController",
+    "Method": "CreateCarAsync",
+    "RelativePath": "api/Car/createcar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDB_Vault_Demonstration.Controllers.CarController",
+    "Method": "DeleteCarAsync",
+    "RelativePath": "api/Car/deletecar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDB_Vault_Demonstration.Controllers.CarController",
+    "Method": "GetCarByIdAsync",
+    "RelativePath": "api/Car/singlecar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

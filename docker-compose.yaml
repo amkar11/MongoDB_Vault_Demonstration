@@ -1,0 +1,86 @@
+networks:
+  MongoDB-Vault-Demonstration:
+services:
+  mongo:
+    image: mongo
+    restart: always
+    ports:
+      - 27017:27017
+    volumes:
+      - mongo-data:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: password
+    networks:
+      - MongoDB-Vault-Demonstration
+
+  mongo-express:
+    image: mongo-express
+    restart: always
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_URL: mongodb://root:password@mongo:27017/
+      ME_CONFIG_BASICAUTH_ENABLED: true
+      ME_CONFIG_BASICAUTH_USERNAME: user
+      ME_CONFIG_BASICAUTH_PASSWORD: password
+    depends_on:
+      - mongo
+    networks:
+      - MongoDB-Vault-Demonstration
+  
+  vault:
+    image: hashicorp/vault
+    container_name: vault-tls
+    restart: always
+    environment:
+      VAULT_ADDR: "https://vault-tls:8300"
+      VAULT_API_ADDR: "https://vault-tls:8300"
+      VAULT_ADDRESS: "https://vault-tls:8300"
+      VAULT_UI: true
+    ports:
+      - 8300:8300
+      - 8301:8301
+    volumes:
+      - vault-logs:/vault/logs
+      - vault-data:/vault/data
+      - C:\Users\2016s\Vault\config.hcl:/vault/config/config.hcl
+      - C:\Users\2016s\Vault\certs:/certs
+      - vault-file:/vault/file
+      - root-ca:/usr/local/share/ca-certificates
+    cap_add:
+      - IPC_LOCK
+    entrypoint: vault server -config /vault/config/config.hcl
+    networks:
+      - MongoDB-Vault-Demonstration
+
+  mongo-vault-api:
+    build:
+      context: .
+      dockerfile: MongoDB_Vault_Demonstration/Dockerfile
+      target: final
+    restart: always
+    ports:
+      - 5193:8080
+      - 7016:8081
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    volumes:
+      - web-api-data:/app
+    secrets:
+      - role-id-secret
+    depends_on:
+      - mongo
+    networks:
+      - MongoDB-Vault-Demonstration
+
+volumes:
+  mongo-data:
+  web-api-data:
+  vault-logs:
+  vault-data:
+  vault-file:
+  root-ca:  
+secrets:
+  role-id-secret:
+    file: C:\Users\2016s\Vault\vault_role_id_secret.txt

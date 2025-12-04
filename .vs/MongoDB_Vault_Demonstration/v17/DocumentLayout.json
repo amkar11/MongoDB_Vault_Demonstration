@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\extensions\\vault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\extensions\\vault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\extensions\\mongodbvault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\extensions\\mongodbvault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\application\\serviceinterfaces\\itransitengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\application\\serviceinterfaces\\itransitengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\application\\serviceinterfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\application\\serviceinterfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\application\\services\\transitengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\application\\services\\transitengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\application\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\application\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\infrastructure\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\infrastructure\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\application\\repositoryinterfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\application\\repositoryinterfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|c:\\users\\2016s\\source\\repos\\mongodb_vault_demonstration\\mongodb_vault_demonstration\\mongodb_vault_demonstration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{647570E5-5CC5-4A54-A640-1F250BCD833B}|MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj|solutionrelative:mongodb_vault_demonstration\\mongodb_vault_demonstration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vault.cs",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Extensions\\Vault.cs",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\Extensions\\Vault.cs",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Extensions\\Vault.cs",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\Extensions\\Vault.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:31:42.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Application\\ServiceInterfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\Application\\ServiceInterfaces\\ICarService.cs",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Application\\ServiceInterfaces\\ICarService.cs",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\Application\\ServiceInterfaces\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:53:42.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Dockerfile",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\Dockerfile",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Dockerfile",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\Dockerfile",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-26T09:16:15.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransitEngineService.cs",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Application\\Services\\TransitEngineService.cs",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\Application\\Services\\TransitEngineService.cs",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Application\\Services\\TransitEngineService.cs",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\Application\\Services\\TransitEngineService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:41:26.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITransitEngineService.cs",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Application\\ServiceInterfaces\\ITransitEngineService.cs",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\Application\\ServiceInterfaces\\ITransitEngineService.cs",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Application\\ServiceInterfaces\\ITransitEngineService.cs",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\Application\\ServiceInterfaces\\ITransitEngineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:39:17.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Program.cs",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\Program.cs",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Program.cs",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:54:21.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yaml",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\docker-compose.yaml",
+              "RelativeDocumentMoniker": "docker-compose.yaml",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\docker-compose.yaml",
+              "RelativeToolTip": "docker-compose.yaml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswC0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-26T09:20:22.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoDbVault.cs",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Extensions\\MongoDbVault.cs",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\Extensions\\MongoDbVault.cs",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Extensions\\MongoDbVault.cs",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\Extensions\\MongoDbVault.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:05:15.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Controllers\\CarController.cs",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:26:40.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Infrastructure\\CarRepository.cs",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\Infrastructure\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Infrastructure\\CarRepository.cs",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\Infrastructure\\CarRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:18:37.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Application\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\Application\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Application\\Services\\CarService.cs",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\Application\\Services\\CarService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:55:56.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\appsettings.json",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\appsettings.json",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\appsettings.json",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T09:46:47.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\appsettings.Development.json",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T11:52:25.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T09:46:43.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Application\\RepositoryInterfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\Application\\RepositoryInterfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Application\\RepositoryInterfaces\\ICarRepository.cs",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\Application\\RepositoryInterfaces\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:16:18.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\Models\\Car.cs",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:10:34.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-28T11:49:18.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MongoDB_Vault_Demonstration.csproj",
+              "DocumentMoniker": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj",
+              "RelativeDocumentMoniker": "MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj",
+              "ToolTip": "C:\\Users\\2016s\\source\\repos\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj",
+              "RelativeToolTip": "MongoDB_Vault_Demonstration\\MongoDB_Vault_Demonstration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T09:38:14.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
